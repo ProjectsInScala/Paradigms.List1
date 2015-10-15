@@ -1,0 +1,15 @@
+package list1Tests
+
+import org.scalatest.FlatSpec
+import classes.ListDecoratorBooleans
+
+  class ListDecoratorNoPalindromeTest extends FlatSpec{
+  "FilterChecker passed a list where one file matches the filter" should
+  "return a list with that file" in{
+    
+    val _tempListNotPalindrome = List(1,2,3);
+    
+    val _tempBoolean = new ListDecoratorBooleans().isPalindrome(_tempListNotPalindrome)
+    assert(_tempBoolean == true) 
+  } 
+}

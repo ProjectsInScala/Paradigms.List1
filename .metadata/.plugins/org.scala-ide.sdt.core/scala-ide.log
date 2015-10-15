@@ -1,0 +1,238 @@
+2015-10-15 08:25:11,517 ERROR [Worker-6] - System.err - [org.eclipse.debug.core] error can't determine modifiers of missing type org.eclipse.pde.internal.ui.wizards.imports.PluginImportHelper
+when weaving type org.eclipse.debug.core.model.IDebugModelProvider
+when weaving classes 
+when weaving 
+ [Xlint:cantFindType]
+2015-10-15 08:25:41,583 ERROR [ModalContext] - System.err - [org.eclipse.jdt.launching] error can't determine modifiers of missing type org.eclipse.pde.internal.ui.wizards.imports.PluginImportHelper
+when weaving type org.eclipse.jdt.internal.launching.JREContainerInitializer
+when weaving classes 
+when weaving 
+ [Xlint:cantFindType]
+2015-10-15 08:25:42,449  WARN [ModalContext] - ScalaProject - Project List1 has platform default sourceLevel.
+2015-10-15 08:25:42,450  WARN [ModalContext] - ScalaProject - Project List1 runs on platform default installation.
+2015-10-15 08:25:42,999  WARN [ModalContext] - ScalaProject - Project List1 has platform default sourceLevel.
+2015-10-15 08:25:42,999  WARN [ModalContext] - ScalaProject - Project List1 runs on platform default installation.
+2015-10-15 08:25:44,050  WARN [Worker-13] - ScalaProject - Project List1 has platform default sourceLevel.
+2015-10-15 08:25:44,051  WARN [Worker-13] - ScalaProject - Project List1 runs on platform default installation.
+2015-10-15 08:26:07,280  WARN [Worker-13] - ScalaProject - Project List1 has platform default sourceLevel.
+2015-10-15 08:26:07,280  WARN [Worker-13] - ScalaProject - Project List1 runs on platform default installation.
+2015-10-15 08:26:07,297  WARN [Worker-13] - ScalaProject - Project List1 has platform default sourceLevel.
+2015-10-15 08:26:07,297  WARN [Worker-13] - ScalaProject - Project List1 runs on platform default installation.
+2015-10-15 08:26:11,231 ERROR [main] - System.err - [org.eclipse.jdt.debug] error can't determine modifiers of missing type org.eclipse.pde.internal.ui.wizards.imports.PluginImportHelper
+when weaving type org.eclipse.jdt.debug.core.IJavaLineBreakpoint
+when weaving classes 
+when weaving 
+ [Xlint:cantFindType]
+2015-10-15 08:27:56,473  WARN [ModalContext] - ScalaProject - Project List1 has platform default sourceLevel.
+2015-10-15 08:27:56,473  WARN [ModalContext] - ScalaProject - Project List1 runs on platform default installation.
+2015-10-15 08:27:56,651  WARN [Worker-3] - ScalaProject - Project List1 has platform default sourceLevel.
+2015-10-15 08:27:56,651  WARN [Worker-3] - ScalaProject - Project List1 runs on platform default installation.
+2015-10-15 08:27:56,691  WARN [Worker-3] - ScalaProject - Project List1 has platform default sourceLevel.
+2015-10-15 08:27:56,691  WARN [Worker-3] - ScalaProject - Project List1 runs on platform default installation.
+2015-10-15 08:27:56,714  WARN [Worker-3] - ScalaProject - Project List1 has platform default sourceLevel.
+2015-10-15 08:27:56,714  WARN [Worker-3] - ScalaProject - Project List1 runs on platform default installation.
+2015-10-15 08:28:07,630  WARN [ModalContext] - ScalaProject - Project List1 has platform default sourceLevel.
+2015-10-15 08:28:07,630  WARN [ModalContext] - ScalaProject - Project List1 runs on platform default installation.
+2015-10-15 08:28:07,795  WARN [Worker-9] - ScalaProject - Project List1 has platform default sourceLevel.
+2015-10-15 08:28:07,796  WARN [Worker-9] - ScalaProject - Project List1 runs on platform default installation.
+2015-10-15 08:28:07,832  WARN [Worker-9] - ScalaProject - Project List1 has platform default sourceLevel.
+2015-10-15 08:28:07,833  WARN [Worker-9] - ScalaProject - Project List1 runs on platform default installation.
+2015-10-15 08:28:07,851  WARN [Worker-9] - ScalaProject - Project List1 has platform default sourceLevel.
+2015-10-15 08:28:07,851  WARN [Worker-9] - ScalaProject - Project List1 runs on platform default installation.
+2015-10-15 08:28:21,072  WARN [ModalContext] - ScalaProject - Project List1 has platform default sourceLevel.
+2015-10-15 08:28:21,073  WARN [ModalContext] - ScalaProject - Project List1 runs on platform default installation.
+2015-10-15 08:28:21,281  WARN [Worker-9] - ScalaProject - Project List1 has platform default sourceLevel.
+2015-10-15 08:28:21,282  WARN [Worker-9] - ScalaProject - Project List1 runs on platform default installation.
+2015-10-15 08:28:21,307  WARN [Worker-9] - ScalaProject - Project List1 has platform default sourceLevel.
+2015-10-15 08:28:21,307  WARN [Worker-9] - ScalaProject - Project List1 runs on platform default installation.
+2015-10-15 08:28:21,329  WARN [Worker-9] - ScalaProject - Project List1 has platform default sourceLevel.
+2015-10-15 08:28:21,329  WARN [Worker-9] - ScalaProject - Project List1 runs on platform default installation.
+2015-10-15 08:28:41,936  WARN [Worker-13] - ScalaProject - Project List1 has platform default sourceLevel.
+2015-10-15 08:28:41,936  WARN [Worker-13] - ScalaProject - Project List1 runs on platform default installation.
+2015-10-15 08:28:41,962  WARN [Worker-13] - ScalaProject - Project List1 has platform default sourceLevel.
+2015-10-15 08:28:41,962  WARN [Worker-13] - ScalaProject - Project List1 runs on platform default installation.
+2015-10-15 08:28:41,985  WARN [Worker-13] - ScalaProject - Project List1 has platform default sourceLevel.
+2015-10-15 08:28:41,986  WARN [Worker-13] - ScalaProject - Project List1 runs on platform default installation.
+2015-10-15 08:28:42,891  WARN [bundle-495-ActorSystem-akka.actor.default-dispatcher-3] - ScalaProject - Project List1 has platform default sourceLevel.
+2015-10-15 08:28:42,891  WARN [bundle-495-ActorSystem-akka.actor.default-dispatcher-3] - ScalaProject - Project List1 runs on platform default installation.
+2015-10-15 08:28:46,307  WARN [Worker-15] - ScalaProject - Project List1 has platform default sourceLevel.
+2015-10-15 08:28:46,307  WARN [Worker-15] - ScalaProject - Project List1 runs on platform default installation.
+2015-10-15 08:28:46,339  WARN [Worker-15] - ScalaProject - Project List1 has platform default sourceLevel.
+2015-10-15 08:28:46,339  WARN [Worker-15] - ScalaProject - Project List1 runs on platform default installation.
+2015-10-15 08:28:46,356  WARN [Worker-15] - ScalaProject - Project List1 has platform default sourceLevel.
+2015-10-15 08:28:46,357  WARN [Worker-15] - ScalaProject - Project List1 runs on platform default installation.
+2015-10-15 08:28:47,420  WARN [Worker-9] - ScalaProject - Project List1 has platform default sourceLevel.
+2015-10-15 08:28:47,421  WARN [Worker-9] - ScalaProject - Project List1 runs on platform default installation.
+2015-10-15 08:28:47,443  WARN [Worker-9] - ScalaProject - Project List1 has platform default sourceLevel.
+2015-10-15 08:28:47,443  WARN [Worker-9] - ScalaProject - Project List1 runs on platform default installation.
+2015-10-15 08:28:47,461  WARN [Worker-9] - ScalaProject - Project List1 has platform default sourceLevel.
+2015-10-15 08:28:47,462  WARN [Worker-9] - ScalaProject - Project List1 runs on platform default installation.
+2015-10-15 08:34:02,398 ERROR [main] - System.err - [org.eclipse.jdt.launching] error can't determine modifiers of missing type org.eclipse.pde.internal.ui.wizards.imports.PluginImportHelper
+when weaving type org.eclipse.jdt.launching.JavaRuntime
+when weaving classes 
+when weaving 
+ [Xlint:cantFindType]
+2015-10-15 08:34:02,460 ERROR [main] - System.err - [org.eclipse.debug.core] error can't determine modifiers of missing type org.eclipse.pde.internal.ui.wizards.imports.PluginImportHelper
+when weaving type org.eclipse.debug.core.ILaunchesListener
+when weaving classes 
+when weaving 
+ [Xlint:cantFindType]
+2015-10-15 08:34:03,790  WARN [org.eclipse.jface.text.reconciler.MonoReconciler] - ScalaProject - Project List1 has platform default sourceLevel.
+2015-10-15 08:34:03,792  WARN [org.eclipse.jface.text.reconciler.MonoReconciler] - ScalaProject - Project List1 runs on platform default installation.
+2015-10-15 08:34:03,801  WARN [org.eclipse.jface.text.reconciler.MonoReconciler] - ScalaProject - Project List1 has platform default sourceLevel.
+2015-10-15 08:34:03,802  WARN [org.eclipse.jface.text.reconciler.MonoReconciler] - ScalaProject - Project List1 runs on platform default installation.
+2015-10-15 08:34:06,277  WARN [Worker-0] - ScalaProject - Project List1 has platform default sourceLevel.
+2015-10-15 08:34:06,281  WARN [Worker-0] - ScalaProject - Project List1 runs on platform default installation.
+2015-10-15 08:34:06,385  WARN [Worker-0] - ScalaProject - Project List1 has platform default sourceLevel.
+2015-10-15 08:34:06,386  WARN [Worker-0] - ScalaProject - Project List1 runs on platform default installation.
+2015-10-15 08:34:07,033  WARN [Worker-0] - ScalaProject - Project List1 has platform default sourceLevel.
+2015-10-15 08:34:07,034  WARN [Worker-0] - ScalaProject - Project List1 runs on platform default installation.
+2015-10-15 08:34:07,096  WARN [Worker-0] - ScalaProject - Project List1 has platform default sourceLevel.
+2015-10-15 08:34:07,096  WARN [Worker-0] - ScalaProject - Project List1 runs on platform default installation.
+2015-10-15 08:34:09,029  WARN [Worker-20] - ScalaProject - Project List1 has platform default sourceLevel.
+2015-10-15 08:34:09,030  WARN [Worker-20] - ScalaProject - Project List1 runs on platform default installation.
+2015-10-15 08:34:09,082  WARN [Worker-20] - ScalaProject - Project List1 has platform default sourceLevel.
+2015-10-15 08:34:09,083  WARN [Worker-20] - ScalaProject - Project List1 runs on platform default installation.
+2015-10-15 08:34:09,112  WARN [Worker-20] - ScalaProject - Project List1 has platform default sourceLevel.
+2015-10-15 08:34:09,113  WARN [Worker-20] - ScalaProject - Project List1 runs on platform default installation.
+2015-10-15 08:34:17,198 ERROR [main] - System.err - [org.eclipse.jdt.debug] error can't determine modifiers of missing type org.eclipse.pde.internal.ui.wizards.imports.PluginImportHelper
+when weaving type org.eclipse.jdt.debug.core.IJavaLineBreakpoint
+when weaving classes 
+when weaving 
+ [Xlint:cantFindType]
+2015-10-15 08:35:12,302  WARN [main] - ScalaProject - Project List1 has platform default sourceLevel.
+2015-10-15 08:35:12,302  WARN [main] - ScalaProject - Project List1 runs on platform default installation.
+2015-10-15 08:35:12,577  WARN [Worker-20] - ScalaProject - Project List1 has platform default sourceLevel.
+2015-10-15 08:35:12,577  WARN [Worker-20] - ScalaProject - Project List1 runs on platform default installation.
+2015-10-15 08:35:12,607  WARN [Worker-20] - ScalaProject - Project List1 has platform default sourceLevel.
+2015-10-15 08:35:12,607  WARN [Worker-20] - ScalaProject - Project List1 runs on platform default installation.
+2015-10-15 08:35:12,627  WARN [Worker-20] - ScalaProject - Project List1 has platform default sourceLevel.
+2015-10-15 08:35:12,628  WARN [Worker-20] - ScalaProject - Project List1 runs on platform default installation.
+2015-10-15 08:35:13,880 ERROR [main] - System.err - [org.eclipse.jdt.debug.ui] error can't determine modifiers of missing type org.eclipse.pde.internal.ui.wizards.imports.PluginImportHelper
+when weaving type org.eclipse.jdt.internal.debug.ui.actions.ToggleBreakpointAdapter
+when weaving classes 
+when weaving 
+ [Xlint:cantFindType]
+2015-10-15 08:35:17,550 ERROR [main] - System.err - [org.eclipse.jdt.junit] error can't determine modifiers of missing type org.eclipse.pde.internal.ui.wizards.imports.PluginImportHelper
+when weaving type org.eclipse.jdt.internal.junit.ui.JUnitQuickFixProcessor
+when weaving classes 
+when weaving 
+ [Xlint:cantFindType]
+2015-10-15 08:36:11,854  WARN [Worker-10] - ScalaProject - Project List1 has platform default sourceLevel.
+2015-10-15 08:36:11,855  WARN [Worker-10] - ScalaProject - Project List1 runs on platform default installation.
+2015-10-15 08:36:11,887  WARN [Worker-10] - ScalaProject - Project List1 has platform default sourceLevel.
+2015-10-15 08:36:11,887  WARN [Worker-10] - ScalaProject - Project List1 runs on platform default installation.
+2015-10-15 08:36:11,900  WARN [Worker-10] - ScalaProject - Project List1 has platform default sourceLevel.
+2015-10-15 08:36:11,900  WARN [Worker-10] - ScalaProject - Project List1 runs on platform default installation.
+2015-10-15 08:36:12,278  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - ScalaProject - Project List1 has platform default sourceLevel.
+2015-10-15 08:36:12,278  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - ScalaProject - Project List1 runs on platform default installation.
+2015-10-15 08:36:21,420  WARN [main] - ScalaProject - Project List1 has platform default sourceLevel.
+2015-10-15 08:36:21,420  WARN [main] - ScalaProject - Project List1 runs on platform default installation.
+2015-10-15 08:36:21,605  WARN [Worker-14] - ScalaProject - Project List1 has platform default sourceLevel.
+2015-10-15 08:36:21,605  WARN [Worker-14] - ScalaProject - Project List1 runs on platform default installation.
+2015-10-15 08:36:21,633  WARN [Worker-14] - ScalaProject - Project List1 has platform default sourceLevel.
+2015-10-15 08:36:21,633  WARN [Worker-14] - ScalaProject - Project List1 runs on platform default installation.
+2015-10-15 08:36:21,651  WARN [Worker-14] - ScalaProject - Project List1 has platform default sourceLevel.
+2015-10-15 08:36:21,652  WARN [Worker-14] - ScalaProject - Project List1 runs on platform default installation.
+2015-10-15 08:36:35,565  WARN [Worker-0] - ScalaProject - Project List1 has platform default sourceLevel.
+2015-10-15 08:36:35,565  WARN [Worker-0] - ScalaProject - Project List1 runs on platform default installation.
+2015-10-15 08:36:35,586  WARN [Worker-0] - ScalaProject - Project List1 has platform default sourceLevel.
+2015-10-15 08:36:35,586  WARN [Worker-0] - ScalaProject - Project List1 runs on platform default installation.
+2015-10-15 08:36:35,601  WARN [Worker-0] - ScalaProject - Project List1 has platform default sourceLevel.
+2015-10-15 08:36:35,602  WARN [Worker-0] - ScalaProject - Project List1 runs on platform default installation.
+2015-10-15 08:37:06,471  WARN [main] - ScalaProject - Project List1 has platform default sourceLevel.
+2015-10-15 08:37:06,471  WARN [main] - ScalaProject - Project List1 runs on platform default installation.
+2015-10-15 08:37:06,598  WARN [Worker-12] - ScalaProject - Project List1 has platform default sourceLevel.
+2015-10-15 08:37:06,598  WARN [Worker-12] - ScalaProject - Project List1 runs on platform default installation.
+2015-10-15 08:37:06,614  WARN [Worker-12] - ScalaProject - Project List1 has platform default sourceLevel.
+2015-10-15 08:37:06,614  WARN [Worker-12] - ScalaProject - Project List1 runs on platform default installation.
+2015-10-15 08:37:06,633  WARN [Worker-12] - ScalaProject - Project List1 has platform default sourceLevel.
+2015-10-15 08:37:06,633  WARN [Worker-12] - ScalaProject - Project List1 runs on platform default installation.
+2015-10-15 08:37:12,379  WARN [Worker-16] - ScalaProject - Project List1 has platform default sourceLevel.
+2015-10-15 08:37:12,380  WARN [Worker-16] - ScalaProject - Project List1 runs on platform default installation.
+2015-10-15 08:37:12,392  WARN [Worker-16] - ScalaProject - Project List1 has platform default sourceLevel.
+2015-10-15 08:37:12,392  WARN [Worker-16] - ScalaProject - Project List1 runs on platform default installation.
+2015-10-15 08:37:12,404  WARN [Worker-16] - ScalaProject - Project List1 has platform default sourceLevel.
+2015-10-15 08:37:12,404  WARN [Worker-16] - ScalaProject - Project List1 runs on platform default installation.
+2015-10-15 08:37:34,221  WARN [Worker-18] - ScalaProject - Project List1 has platform default sourceLevel.
+2015-10-15 08:37:34,221  WARN [Worker-18] - ScalaProject - Project List1 runs on platform default installation.
+2015-10-15 08:37:34,233  WARN [Worker-18] - ScalaProject - Project List1 has platform default sourceLevel.
+2015-10-15 08:37:34,233  WARN [Worker-18] - ScalaProject - Project List1 runs on platform default installation.
+2015-10-15 08:37:34,245  WARN [Worker-18] - ScalaProject - Project List1 has platform default sourceLevel.
+2015-10-15 08:37:34,246  WARN [Worker-18] - ScalaProject - Project List1 runs on platform default installation.
+2015-10-15 08:38:25,917  WARN [Worker-1] - ScalaProject - Project List1 has platform default sourceLevel.
+2015-10-15 08:38:25,918  WARN [Worker-1] - ScalaProject - Project List1 runs on platform default installation.
+2015-10-15 08:38:25,932  WARN [Worker-1] - ScalaProject - Project List1 has platform default sourceLevel.
+2015-10-15 08:38:25,932  WARN [Worker-1] - ScalaProject - Project List1 runs on platform default installation.
+2015-10-15 08:38:25,945  WARN [Worker-1] - ScalaProject - Project List1 has platform default sourceLevel.
+2015-10-15 08:38:25,945  WARN [Worker-1] - ScalaProject - Project List1 runs on platform default installation.
+2015-10-15 08:38:34,648  WARN [Worker-1] - ScalaProject - Project List1 has platform default sourceLevel.
+2015-10-15 08:38:34,648  WARN [Worker-1] - ScalaProject - Project List1 runs on platform default installation.
+2015-10-15 08:38:34,668  WARN [Worker-1] - ScalaProject - Project List1 has platform default sourceLevel.
+2015-10-15 08:38:34,668  WARN [Worker-1] - ScalaProject - Project List1 runs on platform default installation.
+2015-10-15 08:38:34,689  WARN [Worker-1] - ScalaProject - Project List1 has platform default sourceLevel.
+2015-10-15 08:38:34,689  WARN [Worker-1] - ScalaProject - Project List1 runs on platform default installation.
+2015-10-15 08:42:56,810  WARN [Worker-10] - ScalaProject - Project List1 has platform default sourceLevel.
+2015-10-15 08:42:56,810  WARN [Worker-10] - ScalaProject - Project List1 runs on platform default installation.
+2015-10-15 08:42:56,840  WARN [Worker-10] - ScalaProject - Project List1 has platform default sourceLevel.
+2015-10-15 08:42:56,840  WARN [Worker-10] - ScalaProject - Project List1 runs on platform default installation.
+2015-10-15 08:42:56,858  WARN [Worker-10] - ScalaProject - Project List1 has platform default sourceLevel.
+2015-10-15 08:42:56,858  WARN [Worker-10] - ScalaProject - Project List1 runs on platform default installation.
+2015-10-15 08:43:36,606  WARN [Worker-10] - ScalaProject - Project List1 has platform default sourceLevel.
+2015-10-15 08:43:36,606  WARN [Worker-10] - ScalaProject - Project List1 runs on platform default installation.
+2015-10-15 08:43:36,629  WARN [Worker-10] - ScalaProject - Project List1 has platform default sourceLevel.
+2015-10-15 08:43:36,629  WARN [Worker-10] - ScalaProject - Project List1 runs on platform default installation.
+2015-10-15 08:43:36,646  WARN [Worker-10] - ScalaProject - Project List1 has platform default sourceLevel.
+2015-10-15 08:43:36,647  WARN [Worker-10] - ScalaProject - Project List1 runs on platform default installation.
+2015-10-15 08:43:44,523  WARN [Worker-19] - ScalaProject - Project List1 has platform default sourceLevel.
+2015-10-15 08:43:44,523  WARN [Worker-19] - ScalaProject - Project List1 runs on platform default installation.
+2015-10-15 08:43:44,542  WARN [Worker-19] - ScalaProject - Project List1 has platform default sourceLevel.
+2015-10-15 08:43:44,542  WARN [Worker-19] - ScalaProject - Project List1 runs on platform default installation.
+2015-10-15 08:43:44,559  WARN [Worker-19] - ScalaProject - Project List1 has platform default sourceLevel.
+2015-10-15 08:43:44,559  WARN [Worker-19] - ScalaProject - Project List1 runs on platform default installation.
+2015-10-15 08:44:12,892 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-10-15 08:44:13,090 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-10-15 08:44:13,091 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-10-15 08:44:13,091 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-10-15 08:44:13,154  WARN [Worker-21] - ScalaProject - Project List1 has platform default sourceLevel.
+2015-10-15 08:44:13,154  WARN [Worker-21] - ScalaProject - Project List1 runs on platform default installation.
+2015-10-15 08:44:13,183  WARN [Worker-21] - ScalaProject - Project List1 has platform default sourceLevel.
+2015-10-15 08:44:13,183  WARN [Worker-21] - ScalaProject - Project List1 runs on platform default installation.
+2015-10-15 08:44:13,203  WARN [Worker-21] - ScalaProject - Project List1 has platform default sourceLevel.
+2015-10-15 08:44:13,204  WARN [Worker-21] - ScalaProject - Project List1 runs on platform default installation.
+2015-10-15 08:44:30,857  WARN [Worker-10] - ScalaProject - Project List1 has platform default sourceLevel.
+2015-10-15 08:44:30,857  WARN [Worker-10] - ScalaProject - Project List1 runs on platform default installation.
+2015-10-15 08:44:30,870  WARN [Worker-10] - ScalaProject - Project List1 has platform default sourceLevel.
+2015-10-15 08:44:30,870  WARN [Worker-10] - ScalaProject - Project List1 runs on platform default installation.
+2015-10-15 08:44:30,885  WARN [Worker-10] - ScalaProject - Project List1 has platform default sourceLevel.
+2015-10-15 08:44:30,886  WARN [Worker-10] - ScalaProject - Project List1 runs on platform default installation.
+2015-10-15 08:44:46,528  WARN [Worker-10] - ScalaProject - Project List1 has platform default sourceLevel.
+2015-10-15 08:44:46,528  WARN [Worker-10] - ScalaProject - Project List1 runs on platform default installation.
+2015-10-15 08:44:46,538  WARN [Worker-10] - ScalaProject - Project List1 has platform default sourceLevel.
+2015-10-15 08:44:46,538  WARN [Worker-10] - ScalaProject - Project List1 runs on platform default installation.
+2015-10-15 08:44:46,551  WARN [Worker-10] - ScalaProject - Project List1 has platform default sourceLevel.
+2015-10-15 08:44:46,551  WARN [Worker-10] - ScalaProject - Project List1 runs on platform default installation.
+2015-10-15 08:46:08,006  WARN [Worker-10] - ScalaProject - Project List1 has platform default sourceLevel.
+2015-10-15 08:46:08,007  WARN [Worker-10] - ScalaProject - Project List1 runs on platform default installation.
+2015-10-15 08:46:08,026  WARN [Worker-10] - ScalaProject - Project List1 has platform default sourceLevel.
+2015-10-15 08:46:08,026  WARN [Worker-10] - ScalaProject - Project List1 runs on platform default installation.
+2015-10-15 08:46:08,037  WARN [Worker-10] - ScalaProject - Project List1 has platform default sourceLevel.
+2015-10-15 08:46:08,037  WARN [Worker-10] - ScalaProject - Project List1 runs on platform default installation.
+2015-10-15 08:47:19,629  WARN [Worker-24] - ScalaProject - Project List1 has platform default sourceLevel.
+2015-10-15 08:47:19,630  WARN [Worker-24] - ScalaProject - Project List1 runs on platform default installation.
+2015-10-15 08:47:19,650  WARN [Worker-24] - ScalaProject - Project List1 has platform default sourceLevel.
+2015-10-15 08:47:19,650  WARN [Worker-24] - ScalaProject - Project List1 runs on platform default installation.
+2015-10-15 08:47:19,661  WARN [Worker-24] - ScalaProject - Project List1 has platform default sourceLevel.
+2015-10-15 08:47:19,661  WARN [Worker-24] - ScalaProject - Project List1 runs on platform default installation.
+2015-10-15 08:47:37,096  WARN [Worker-21] - ScalaProject - Project List1 has platform default sourceLevel.
+2015-10-15 08:47:37,096  WARN [Worker-21] - ScalaProject - Project List1 runs on platform default installation.
+2015-10-15 08:47:37,120  WARN [Worker-21] - ScalaProject - Project List1 has platform default sourceLevel.
+2015-10-15 08:47:37,120  WARN [Worker-21] - ScalaProject - Project List1 runs on platform default installation.
+2015-10-15 08:47:37,134  WARN [Worker-21] - ScalaProject - Project List1 has platform default sourceLevel.
+2015-10-15 08:47:37,135  WARN [Worker-21] - ScalaProject - Project List1 runs on platform default installation.
+2015-10-15 08:48:32,806  WARN [Worker-13] - ScalaProject - Project List1 has platform default sourceLevel.
+2015-10-15 08:48:32,807  WARN [Worker-13] - ScalaProject - Project List1 runs on platform default installation.
+2015-10-15 08:48:32,827  WARN [Worker-13] - ScalaProject - Project List1 has platform default sourceLevel.
+2015-10-15 08:48:32,827  WARN [Worker-13] - ScalaProject - Project List1 runs on platform default installation.
+2015-10-15 08:48:32,838  WARN [Worker-13] - ScalaProject - Project List1 has platform default sourceLevel.
+2015-10-15 08:48:32,839  WARN [Worker-13] - ScalaProject - Project List1 runs on platform default installation.

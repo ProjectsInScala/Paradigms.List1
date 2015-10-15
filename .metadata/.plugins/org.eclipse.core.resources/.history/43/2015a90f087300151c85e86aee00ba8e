@@ -1,0 +1,15 @@
+package list1Tests
+
+import org.scalatest.FlatSpec
+import classes.ListDecoratorBooleans
+
+  class ListDecoratorNoPalindromeTest extends FlatSpec{
+  "As a ListDecoratorBooleans I pull not palindrome" should
+  "return a false" in{
+    
+    val _listNoPalindrome = List(1,2,3);
+    
+    val _ifPalindrome = new ListDecoratorBooleans().isPalindrome(_listNoPalindrome)
+    assert(_ifPalindrome == false) 
+  } 
+}

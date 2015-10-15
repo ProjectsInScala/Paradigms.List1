@@ -1,0 +1,28 @@
+package list1Tests
+
+import org.scalatest.FlatSpec
+import classes.ListDecoratorBooleans
+
+  class ListDecoratorNoPalindromeTest extends FlatSpec{
+  "As a ListDecoratorBooleans I pull not palindrome list" should
+  "return a false" in{
+    
+    val _listNoPalindrome = List(1,2,3);
+    println("Input List : "+_listNoPalindrome)
+    
+    val _ifPalindrome = new ListDecoratorBooleans().isPalindrome(_listNoPalindrome)
+    assert(_ifPalindrome == false) 
+  } 
+}
+
+  class ListDecoratorPalindromeTest extends FlatSpec{
+  "As a ListDecoratorBooleans I pull palindrome list" should
+  "return a false" in{
+    
+    val _listPalindrome = List(3,2,3);
+    println("Input List : "+_listPalindrome)
+    
+    val _ifPalindrome = new ListDecoratorBooleans().isPalindrome(_listPalindrome)
+    assert(_ifPalindrome == true) 
+  } 
+}
